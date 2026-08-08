@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "saad_audio_embedder",
+  "name": "Saad Audio Embedder",
+  "author": "saad",
+  "repoUrl": "https://github.com/Saadchr/remnote-audio",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "description": "Embarque en masse les audios TTS hébergés sur GitHub Pages sur les flashcards.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModifyDelete"
+    }
+  ]
+}
